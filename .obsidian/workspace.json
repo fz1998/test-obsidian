@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "test"
             }
           }
         ]
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 479.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a672a89487b7fbcb",
+  "active": "54c9f8d532ce3d68",
   "lastOpenFiles": [
+    "test.md",
     "2026-01-17.md",
-    "未命名.md",
     "2026-01-18.md",
     "欢迎.md"
   ]
