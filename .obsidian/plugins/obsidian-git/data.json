@@ -1,0 +1,14 @@
+{
+  "autoCommitInterval": 30,
+  "autoPullInterval": 30,
+  "autoPushInterval": 30,
+  "commitMessage": "自动备份 {{date}} {{time}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoBackupAfterFileChange": false,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "noConfirm": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true
+}
